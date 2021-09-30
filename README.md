@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NguyenHungThuong
+- 👀 I’m interested in machine learning and football
+- 🌱 I’m currently learning deeplearning and robot
